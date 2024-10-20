@@ -1,0 +1,28 @@
+.movie-detail {
+    padding: 20px;
+  }
+  
+  .movie-header {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .movie-info {
+    max-width: 500px;
+  }
+  
+  .movie-cast {
+    margin-top: 30px;
+  }
+  
+  .cast-list {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .cast-card img {
+    width: 100px;
+    height: 150px;
+    border-radius: 10px;
+  }
+  
